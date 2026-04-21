@@ -7,7 +7,7 @@ Public audit artifacts and writeups from active security research and contest pa
 - `sherlock/xrpl-2026-overview.md` — overview of the XRPL Sherlock campaign and finding inventory.
 - `sherlock/xrpl-2026-submission-01.md` — sample high-severity finding prepared for submission.
 - `cantina/euler-ondooracle-staleness.md` — Cantina-style finding draft for Euler/Ondo oracle staleness.
-- `meta/artifact-index.md` — source mapping back to local Clarity One library artifacts.
+- `meta/artifact-index.md` — artifact listing and sanitization policy.
 
 ## Scope and Disclosure
 

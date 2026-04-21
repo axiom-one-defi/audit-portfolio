@@ -1,16 +1,11 @@
 # Artifact Index
 
-## Source Mapping
+## Included Artifacts
 
-- `sherlock/xrpl-2026-overview.md`
-  - Synthesized from internal Sherlock XRPL contest preparation notes and post-contest synthesis artifacts, sanitized for public release.
-
-- `sherlock/xrpl-2026-submission-01.md`
-  - Source lineage: internal high-severity draft submitted through the same XRPL contest preparation lane; identifiers removed for public release.
-
-- `cantina/euler-ondooracle-staleness.md`
-  - Source lineage: internal Cantina preparation artifact for oracle staleness analysis; identifiers removed for public release.
+- `sherlock/xrpl-2026-overview.md` — XRPL contest overview and finding inventory.
+- `sherlock/xrpl-2026-submission-01.md` — High-severity finding from the XRPL contest.
+- `cantina/euler-ondooracle-staleness.md` — Oracle staleness analysis for Euler/Ondo.
 
 ## Sanitization
 
-All included files were selected to avoid secrets, internal infrastructure details, and internal issue/workspace identifiers.
+All artifacts were sanitized for public release. Private keys, infrastructure details, workspace identifiers, and non-public operational data are excluded.
